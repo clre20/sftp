@@ -1,5 +1,4 @@
-# sftp
-簡易sftp server
+# 簡易sftp server
 
 取得 server.key
 
